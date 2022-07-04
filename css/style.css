@@ -40,4 +40,24 @@ th{
 .odd1{
   background-color: rgba(29, 163, 216, 0.863);
 }
-    
+.fin{
+  color: grey;
+  margin-bottom: 5px;
+}
+.img1{
+  width: 200px;
+  height: 200px;
+  background-image: url(../img/graph.jpg);
+  color: white;
+  text-align: start;
+
+}
+.img2{
+  width: 200px;
+  height: 200px;
+  background-image: url(../img/monitor.jpg);
+  color: white;
+  text-align: start;
+ 
+  
+}
