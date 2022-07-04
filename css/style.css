@@ -27,6 +27,17 @@ header{
     .lorem{
         background-color: yellow;
     }
+  ul{
+    padding-left: 1%;
+  }
+th{
+  text-decoration-color: aquamarine;
+}
+.odd{
+  background-color: aqua;
   
-   
+}
+.odd1{
+  background-color: rgba(29, 163, 216, 0.863);
+}
     
